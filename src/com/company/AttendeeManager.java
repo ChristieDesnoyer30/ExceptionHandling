@@ -1,6 +1,6 @@
 package com.company;
 
-public class AttendeeManager extends Attendee {
+public class AttendeeManager {
 
     public Attendee createByID(String id) throws InvalidIDNumberException {
 

@@ -8,7 +8,7 @@ public class AttendeeDemo {
 
         try{
 
-            am.createByID("12348");
+            am.createByID("12345678");
 
         } catch(InvalidIDNumberException ex){
 
